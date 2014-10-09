@@ -26,11 +26,11 @@ colors:  #in hex code if not noted else
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
   - title: github
-    url: www.github.com/soumyavardhan
+    url: http://www.github.com/soumyavardhan
 #  - title: facebook
 #    url:
   - title: twitter
-    url: www.twitter.com/soumyavardhan
+    url: http://www.twitter.com/soumyavardhan
 #  - title: instagram
 #    url: 
   - title: linkedin
@@ -48,10 +48,10 @@ social:
     
 # Members information. Shown on About page.
 #members:
-#  - name:
-#    position:
-#    text:
-#    img:
+#  - name: xyz
+#    position: abc
+#    text: jghsdfjhgsdf
+#    img: team01.jpg
 #    social:
 #      - title: envelope #use for email address
 #        url: mailto:name@domain.com
