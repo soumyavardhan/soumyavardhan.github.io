@@ -61,8 +61,8 @@ social:
 #  - name:
 #    img:
     
-# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Soumya Vardhan Singh"
+# Short text about yourself. Shown in footer on every page and also separately on Home and Contact page.
+about: ""
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:
